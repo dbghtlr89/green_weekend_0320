@@ -67,7 +67,7 @@
 
 ## HTML
 
-> [HTML Introduction](https://www.w3schools.com/html/html_intro.asp/)
+> [HTML Introduction](https://www.w3schools.com/html/html_intro.asp)
 
 
 
