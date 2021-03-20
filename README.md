@@ -13,3 +13,16 @@
 >><strong>merge</strong>  : 혐업된 가지들은 합치는 작업은 메인개발자가 진행
      
 >><strong>pull request</strong> : 작업마무리된후 메인작업자에게 공지 (브랜치를 따서 혐업한 사람)   
+
+
+
+
+## HTML
+
+> 무료넷상코딩사이트 [codepen](https://codepen.io/)
+
+> 무료넷상코딩사이트 [w3scools](https://www.w3schools.com/)
+
+> 깃허브 문서작성 [마크다운 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+
+> 문서보관서비스 [github](github.com)
