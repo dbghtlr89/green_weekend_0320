@@ -4,7 +4,7 @@
 
 >### GITHUB 용어
 
-<underline>>>stage(commit할 대상 ) -> commit(스냅,저장) -> push(깃허브서버로 업로드)</underline>
+>>stage(commit할 대상 ) -> commit(스냅,저장) -> push(깃허브서버로 업로드)
 
 >><strong>pull</strong> : 깃허브서버에서 다운로드 (혐업목표)
 
