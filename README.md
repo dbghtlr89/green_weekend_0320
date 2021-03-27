@@ -69,7 +69,8 @@
 
 > [HTML Introduction](https://www.w3schools.com/html/html_intro.asp)
 
-> [html ELements](https://www.w3schools.com/html/html_elements.asp)
+> [html Elements](https://www.w3schools.com/html/html_elements.asp)
 
+> [HTML Attributes](https://www.w3schools.com/html/html_attributes.asp)
 
 
