@@ -136,3 +136,32 @@ ul,ol 목록에서 사용시 중첩(nested) 형태로 사용할때 포함관계�
 -포함하는 목록 항목에 작은 목록전체가 포함됨
 
 
+### 이미지 컨텐츠 요소
+
+[HTML 이미지](https://www.w3schools.com/html/html_images.asp)
+
+1) src attribute : 가져올 이미지 파일 위치 정보
+2) alt(alternative) attribute : 대체 텍스트
+
+
+### 멀티미디어 컨텐츠 요소
+
+[HTML 비디오](https://www.w3schools.com/html/html5_video.asp)
+
+attribute의 형태
+1) name = "value"
+2) name만 사용
+
+video 태그의 attribute
+1)controls
+2)autoplays
+3)muted
+
+
+
+
+
+
+https://github.com/ministori.
+
+
