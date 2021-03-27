@@ -88,6 +88,12 @@ HTML 속성 (Attributes)
 1) html element에 추가 정보를 제공
 2) name = "value" 형태로 사용
 
+웹 문서에서 표시될수 있는 컨텐츠
+
+1)텍스트
+2)이미지
+3)멀티미디어 (비디오,오디오)
+
 > [HTML Paragraphs](https://www.w3schools.com/html/html_attributes.asp)
 
 제목 태그 (Tag)
