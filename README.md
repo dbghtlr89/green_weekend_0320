@@ -156,8 +156,19 @@ video 태그의 attribute
 1)controls
 2)autoplays
 3)muted
+4)loop
 
 
+[HTML YouTube 동영상](https://www.w3schools.com/html/html_youtube.asp)
+
+youtube의 매개변수
+1)controls => youtube_url/VIDEO_ID?contrls=1
+2)autoplay => youtube_url/VIDEO_ID?autoplay=1
+3)mute => youtube_url/VIDEO_ID?mute=1
+4)loop => youtube_url/VIDEO_ID?loop=1
+
+여러 매개변수 동시사용
+youtube_url?contrls=1&autoplay=1&mute=1&loop=1 (& : ampersand)
 
 
 
