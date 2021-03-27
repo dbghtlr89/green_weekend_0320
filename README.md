@@ -81,4 +81,4 @@ ex)
 
 <a href="www.naver.com"> 네이버주소 </a>
 
-<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTA0MTRfMTIg%2FMDAxNTU1MjEwMzQyODMz.Ag4EoVScWkPfatn8_TOENrjrcZBUikNoENSEJbjk1EMg.rmwPGgthV8JRvFuLAv_TUdlahUGDZpiadct4OtakY-Ag.JPEG.fif11035%2F1555160080380.jpg&type=sc960_832"> 
+<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTA0MTRfMTIg%2FMDAxNTU1MjEwMzQyODMz.Ag4EoVScWkPfatn8_TOENrjrcZBUikNoENSEJbjk1EMg.rmwPGgthV8JRvFuLAv_TUdlahUGDZpiadct4OtakY-Ag.JPEG.fif11035%2F1555160080380.jpg&type=sc960_832" width="100" height="100">
