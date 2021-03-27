@@ -82,3 +82,49 @@ ex)
 <a href="www.naver.com"> 네이버주소 </a>
 
 <img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTA0MTRfMTIg%2FMDAxNTU1MjEwMzQyODMz.Ag4EoVScWkPfatn8_TOENrjrcZBUikNoENSEJbjk1EMg.rmwPGgthV8JRvFuLAv_TUdlahUGDZpiadct4OtakY-Ag.JPEG.fif11035%2F1555160080380.jpg&type=sc960_832" width="100" height="100">
+
+
+HTML 속성 (Attributes)
+1) html element에 추가 정보를 제공
+2) name = "value" 형태로 사용
+
+> [HTML Paragraphs](https://www.w3schools.com/html/html_attributes.asp)
+
+제목 태그 (Tag)
+Heading -> h
+h1~h6
+
+> [HTML TAG](https://www.w3schools.com/html/html_headings.asp)
+
+단락 태그
+paragraph -> p           (문단?같은걸로 생각하면됨)
+
+
+수평선
+Horizontal Rules -> hr(Empty Elements)  (밑줄?같은걸로 나눠지는거라고 보면됨)
+
+
+하이퍼링크
+Anchor -> a
+href : 링크로 연결된 목적지 주소
+
+1)외부링크
+-링크주소 입력시 http(https) 키워드 잊지말고 사용할 것
+
+2)북마크
+-목적지에 id attribute를 사용해서 이름을 정해줌
+-href attribute에 #를 사용해서 목적지이름을 입력
+
+
+[Html Tables](https://www.w3schools.com/html/html_tables.asp)
+
+-[Html Generatoe](https://www.tablesgenerator.com/html_tables#)            (이사이트에서 데이터 입력해서 코드 복사해서 사용)
+
+[Html list](https://www.w3schools.com/html/html_lists.asp)
+
+1)순서없는 목록 (ul)
+2)순서있는 목록 (ol)
+3)설명 목록
+
+ul,ol 목록에서 사용시 중첩(nested) 형태로 사용할때 포함관계를 주의                       (ul,ol 안에 li가 포함되는 형태로 되야함)
+-포함하는 목록 항목에 작은
