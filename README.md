@@ -73,4 +73,12 @@
 
 > [HTML Attributes](https://www.w3schools.com/html/html_attributes.asp)
 
+일반적으로 <p> 제목입니다 </p> 이런식으로 시작과 끝을 해줘야하는데
 
+<a> </a> 하이퍼링크나 이미지삽입은 내용입력에서 끝나는게 아닌 자료를 어디서 갖고와야되는지 연결부분에 대한 설명이 필요하므로 가로로 닫지않는다.
+
+ex)
+
+<a href="www.naver.com"> 네이버주소 </a>
+
+<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTA0MTRfMTIg%2FMDAxNTU1MjEwMzQyODMz.Ag4EoVScWkPfatn8_TOENrjrcZBUikNoENSEJbjk1EMg.rmwPGgthV8JRvFuLAv_TUdlahUGDZpiadct4OtakY-Ag.JPEG.fif11035%2F1555160080380.jpg&type=sc960_832"> 
