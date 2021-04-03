@@ -179,5 +179,7 @@ youtube_url?contrls=1&autoplay=1&mute=1&loop=1 (& : ampersand)
 
 [웹 포토샾](https://www.photopea.com/)
 
+[연습용 웹페이터 사이트](https://freebiesbug.com/)
+
 
 
