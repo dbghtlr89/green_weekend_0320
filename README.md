@@ -227,9 +227,16 @@ youtube_url?contrls=1&autoplay=1&mute=1&loop=1 (& : ampersand)
 ```
 > 선택 폼 요소
 ```
-- <input type="radio">
-- <input type="checkbox">
-- 항상 같이 label을 써줘야한다 (텍스트를 표시할 방법이 없음)
+<input type="radio">
+<input type="checkbox">
+항상 같이 label을 써줘야한다 (텍스트를 표시할 방법이 없음)
+<select> 안에 <option> 넣어줌
+ ex)
+ <select title="과목선택목록">
+            <option>HTML</option>
+            <option>CSS</option>
+            <option>JS</option>
+ </select>
 ```
 
 > 실행 폼 요소
