@@ -206,5 +206,35 @@ youtube_url?contrls=1&autoplay=1&mute=1&loop=1 (& : ampersand)
 -포함관계
   -Block : block,inline,contents(text) 모두 포함할수 있음
   -inline : inline,contents(text)만 포함 가능
+  
+
+### 폼 요소
+
+-사용자 입력을 받을 수 있는 요소
+[html form elements](
+
+> 텍스트 입력 폼 요소
+
+- <input type="text" /> :한줄입력
 
 
+
+> 파일 업로드 폼 요소
+
+- <input type="file">
+
+> 선택 폼 요소
+
+- <input type="radio">
+- <input type="checkbox">
+- 항상 같이 label을 써줘야한다 (텍스트를 표시할 방법이 없음)
+
+
+> 실행 폼 요소
+
+-<input type="button" />
+-<input type="reset" />
+-<input type="submit" />
+-<input type="button"></button>
+-<input type="reset"></reset>
+-<input type="submit"></submit>
