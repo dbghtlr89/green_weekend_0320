@@ -201,6 +201,10 @@ youtube_url?contrls=1&autoplay=1&mute=1&loop=1 (& : ampersand)
   
 ### Block/Inline Element
 
-
+-block : 새 줄(줄바꿈)에서 표시
+-inline : 한 줄에 나란히 표시
+-포함관계
+  -Block : block,inline,contents(text) 모두 포함할수 있음
+  -inline : inline,contents(text)만 포함 가능
 
 
