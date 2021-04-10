@@ -211,7 +211,8 @@ youtube_url?contrls=1&autoplay=1&mute=1&loop=1 (& : ampersand)
 ### 폼 요소
 
 -사용자 입력을 받을 수 있는 요소
-[html form elements](
+[html form elements](https://www.w3schools.com/html/html_form_elements.asp)
+
 
 > 텍스트 입력 폼 요소
 
