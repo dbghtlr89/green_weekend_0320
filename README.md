@@ -177,9 +177,30 @@ youtube_url?contrls=1&autoplay=1&mute=1&loop=1 (& : ampersand)
 : sectioning Contents
 => semantic Element
 
+[CAN I use](https://caniuse.com/)
+
 [웹 포토샾](https://www.photopea.com/)
 
 [연습용 웹페이터 사이트](https://freebiesbug.com/)
+
+###프론트 엔드 기술 (HTML, CSS, JS)체크
+
+-프론트엔드 기술이 버전업 될떄마다 브라우저가 지원하는지 체크할 필요가 있음
+-HTML5/5.1 , CSS3 , ES2015이후 버전드르이 기술은 항상 지원여부 체크가 필요함
+-브라우저 지원여부
+  -상위 호환성 : 새 버전 브라우저의 지원여부
+  -하위 호환성 : 구 버전 브라우저의 지원여부
+-일반적으로 브라우저 지원은 하위 호환성 체크가 필요함
+
+
+[HTML Block and Inline Elements](https://www.w3schools.com/html/html_blocks.asp)
+
+- Non-semestic slement(grouping 요소)
+  -div(division)
+  -span
+  
+### Block/Inline Element
+
 
 
 
