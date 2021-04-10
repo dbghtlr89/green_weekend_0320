@@ -215,27 +215,29 @@ youtube_url?contrls=1&autoplay=1&mute=1&loop=1 (& : ampersand)
 
 
 > 텍스트 입력 폼 요소
-
-- <input type="text" /> :한줄입력
-
-
+```
+<input type="text" /> : 한줄입력
+<textarea></textarea> : 여러줄입력
+<input typr="password"
+```
 
 > 파일 업로드 폼 요소
-
+```
 - <input type="file">
-
+```
 > 선택 폼 요소
-
+```
 - <input type="radio">
 - <input type="checkbox">
 - 항상 같이 label을 써줘야한다 (텍스트를 표시할 방법이 없음)
-
+```
 
 > 실행 폼 요소
-
+```
 -<input type="button" />
 -<input type="reset" />
 -<input type="submit" />
 -<input type="button"></button>
 -<input type="reset"></reset>
 -<input type="submit"></submit>
+```
