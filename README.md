@@ -286,247 +286,67 @@ ex)
 25
 
 ```
-
-226
-
 - <input type="file">
-
-227
-
 ```
-
-228
-
 > 선택 폼 요소
 
-229
-
 ```
-
-230
-
 <input type="radio">
-
-231
-
 <input type="checkbox">
-
-232
-
 항상 같이 label을 써줘야한다 (텍스트를 표시할 방법이 없음)
-
-233
-
 <select> 안에 <option> 넣어줌
-
-234
-
  ex)
-
-235
-
  <select title="과목선택목록">
-
-236
-
             <option>HTML</option>
-
-237
-
             <option>CSS</option>
-
-238
-
             <option>JS</option>
-
-239
-
  </select>
-
-240
-
 ```
-
-241
-
-
-
-242
-
 > 실행 폼 요소
 
-243
-
 ```
-
-244
-
 -<input type="button" />
-
-245
-
 -<input type="reset" />
-
-246
-
 -<input type="submit" />
-
-247
-
 -<input type="button"></button>
-
-248
-
 -<input type="reset"></reset>
-
-249
-
 -<input type="submit"></submit>
-
-250
-
 ```
-
-251
-
-
-
-252
 
 ### HTML Element에 이름 붙이기
-
-253
-
-
-
-254
-
 > ID,CLASS를 사용
-
-255
 
 ```
 
-256
-
 id="name"
-
-257
-
 ex)
-
-258
-
 <p id="paragraph1">단락</p>
-
-259
-
-
-
-260
-
 class
-
-261
-
 ex)
-
-262
-
 <p class="paragraph2"></p>
-
-263
-
 ```
 
 264
 
 > id와 class 의 사용처
-
-265
-
 - id는 하나의 HTML파일(문서)에서 중복 사용될 수 없음
-
-266
-
 - class는 하나의 HTML파일(문서)에서 중복 사용할 수 있음 (CSS styling, Javascript 기능을 동시 
-
-267
-
-
-
-268
-
-
-
-269
-
 > 표기법(여러단어가 사용될경우 단어를 구분)
-
-270
-
 -gnb-list-item : kebab case
-
-271
-
 -gnb_list_item : snake case
-
-272
-
 -gnbListItem : camel case
-
-273
-
 -GnbListItem : pascal case
-
-274
-
-
-
-275
-
 -파일,폴더 이름 : snake case
-
-276
-
 -id,class : kebab case
-
-277
-
 -자바스크립트 변수,함수 : camel case
-
-278
-
-
-
-279
-
-
-
-280
-
 ### 박스 가로 배치
-
-281
-
-
-
-282
-
 > float
-
-283
-
-
-
-284
-
 -left,right 속성값으로 가로배치
-
-285
-
 -부모요소를 기준으로 왼쪽 배치 , 오른쪽 배치
-
-286
-
 -right를 값을 사용하면 박스순서가 반대로 배치-right를 값을 사용하면 박스순서가 반대로 배치
+
+
+### 반응형 웹
+
+> OSMU ( One Source Multi Use) - One Source => HTML
+> 적응형 
